@@ -1,12 +1,18 @@
 /**
- * @name No Game No Life
+ * @name No Game No Life Shiro
  * @author D34TH_N0T3
- * @description No Game No Life Theme returns
- * @version 4
+ * @description No Game No Life Theme About or beautiful Shiro :D
+ * @version 3.2
  */
+@import url("https://discordstyles.github.io/HorizontalServerList/base.css");
+
+:root {
+  --HSL-server-icon-size: 40px;  /* Size of the server icons | DEFAULT: 40px */
+  --HSL-server-spacing: 10px;  /* Spacing between each server icon | DEFAULT: 10px */
+}
 .app-2rEoOp {
     background-color: transparent;
-    background-image: url(https://images7.alphacoders.com/658/658706.jpg);
+    background-image: url(https://cdn.discordapp.com/attachments/759960398715027526/815447718582681640/Shiro_Counch.jpg);
     background-size: cover;
 }
 
@@ -15,8 +21,10 @@
 }
 
 .childWrapper-anI2G9 {
-    background-color: #582060;
-    color: white;
+    background-image: url(https://cdn.discordapp.com/attachments/759960398715027526/814308469393850368/d8lyhx6-e41202c3-7311-42b6-b5b7-93b23233b149.png);
+    background-size: cover;
+    background-color: transparent;
+    color: transparent;
 }
 
 .protip-1b9XPC {
@@ -37,9 +45,11 @@
 
 .wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9, 
 .wrapper-1BJsBx:hover .childWrapper-anI2G9 {
-    background-color: #901E50;
+    background-image: url(https://cdn.discordapp.com/attachments/759960398715027526/814308469393850368/d8lyhx6-e41202c3-7311-42b6-b5b7-93b23233b149.png);
+    background-size: cover;
+    background-color: transparent;
+    color: transparent;
 }
-
 .svg-1X37T1>mask {
     display: none;
 }
@@ -52,16 +62,16 @@
 }
 
 .folder-21wGz3 {
-    background-color: rgba(0,0,0,0.4);
+    background-color: rgba(0, 0, 0, 0.4);
     border-radius: 25%;
 }
 
 .folder-21wGz3.hover-2ji_A7 {
-    background-color: rgba(0,0,0,0.7);
+    background-color: rgba(0, 0, 0, 0.7);
 }
 
 .expandedFolderBackground-2sPsd- {
-    background-color: rgba(0,0,0,0.3);
+    background-color: rgba(0, 0, 0, 0.3);
     border-radius: 15px;
 }
 
@@ -73,7 +83,7 @@
 
 .guildsError-b7zR5H,
 .guildIconUnavailable-5PMHDN {
-    background-color: rgba(0,0,0,0.4);
+    background-color: rgba(0, 0, 0, 0.4);
     border: 1px solid #f50300;
 }
 
@@ -101,7 +111,7 @@
 }
 
 .layers-3iHuyZ {
-    background-color: rgba(0, 0, 0, 0.77);
+    background-color: rgba(0, 0, 0, 0.123)
 }
 
 .theme-dark .layer-3QrUeG,
@@ -118,11 +128,11 @@
 }
 
 .quickswitcher-3JagVE {
+    background-image: url(https://cdn.discordapp.com/attachments/759960398715027526/816041587321602069/x_d7sEKvacfvDYU-N1WCUP-kA207tDgHZU-Pk4yVyT9PMsO0rSRJO7trTRA4R5NtIokj2o873odMtakU3O-UV55SxQAkXERjVjZ-.png);
     position: absolute;
     border-radius: 20px;
     padding: 16px;
     box-shadow: 0 8px 4px rgba(0,0,0, 0.2);
-    background-color: #582060;
     color: white;
 }
 
@@ -132,13 +142,13 @@
     
 .container-UC8Ug1 {
     border-radius: 4px;
-    border: 1px solid #582060;
+    border: 1px solid rgb(88, 32, 96);
     background-color: rgba(0, 0, 0, 0.4);
 }
 
 .backdrop-1wrmKB,
 .backdropWithLayer-3_uhz4 {
-  background-color: rgba(0,0,0,0.2) !important;
+  background-color: rgba(0, 0, 0, 0) !important;
 }
 
 .theme-dark .root-1gCeng {
@@ -152,7 +162,7 @@
 
 .container-2XeR5Z {
     border-radius: 6px;
-    background-color: rgba(0,0,0, 0.2);
+    background-color: rgba(0, 0, 0, 0.2);
 }
 
 .colorHeaderSecondary-3Sp3Ft {
@@ -160,7 +170,7 @@
 }
 
 .panels-j1Uci_ {
-    background-color: rgba(0,0,0, 0.2);
+    background-color: rgba(0, 0, 0, 0);
 }
 
 .input-1Rv96N {
@@ -413,13 +423,13 @@
 .userPopout-3XzG_A {
     box-shadow: none;
     border-radius: 13px;
-    background-image: url(https://mfiles.alphacoders.com/801/801013.png);
+    background-image: url(https://cdn.discordapp.com/attachments/759960398715027526/814750353047289867/6-67948_shiro-no-game-no-life-wallpaper-iphone.png);
     background-size: cover;
 }
 
 .root-SR8cQa {
     background-color: transparent;
-    background-image: url(https://images6.alphacoders.com/567/567638.png);
+    background-image: url(https://cdn.discordapp.com/attachments/759960398715027526/814749520596172800/no_game_no_life_shiro_wallpaper_by_akkey_kun_d7igrlh-fullview.png);
     background-size: cover;
 }
 
@@ -2187,11 +2197,14 @@
 }
 
 .theme-dark .addGamePopout-2RY8Ju {
-    background-color: #3D1E59;
+    background-image: url(https://cdn.discordapp.com/attachments/759960398715027526/816523859205423134/latest.png);
+    background-size: 78%;
 }
 
 .theme-dark .nowPlaying-284llR {
-    background-color: #901E50;
+    background-image: url(https://cdn.discordapp.com/attachments/774061974707240991/816538967682842644/ngnl_loo.png);
+    background-size: 96%;
+    background-color: transparent;
 }
 
 .theme-dark .gameNameInput-385LoS:focus, 
@@ -2305,7 +2318,7 @@
 
 .akaBadge-1M-1Gw {
     background-color: #582060;
-    color: white;
+    color: rgb(255, 255, 255);
 }
 
 
@@ -2317,7 +2330,7 @@
 }
 
 .border-Jn5IOt {
-    border-radius: 20%;
+    border-radius: 35%;
     border: 5px solid #582060;
 }
 
@@ -2349,7 +2362,7 @@
 
 .theme-dark .quickSelect-3BxO0K,
 .theme-dark .regionSelectName-c5qL8O {
-    color: white;
+    color: rgb(255, 255, 255);
 }
 
 .quickSelectLabel-2r3iJ_ {
@@ -2358,7 +2371,7 @@
 
 .theme-dark .quickSelectPopoutOption-opKBx9 {
     background-color: rgba(0, 0, 0, .39);
-    color: white;
+    color: rgb(255, 255, 255);
 }
 
 .theme-dark .quickSelectPopoutOption-opKBx9:hover {
@@ -2372,13 +2385,13 @@
 .after_inlineCode-1KfVgj, 
 .before_inlineCode-1G9rTK, 
 .inlineCode-2ngu6Y {
-  background: rgba(255,255,255, .1);
+  background: rgba(255, 255, 255, 0.1);
   padding: 3px;
 }
 .codeBlockSyntax-2i-tMA, 
 .syntaxAfter-hcA4AH, 
 .syntaxBefore-1YQ9lW {
-  color: white;
+  color: rgb(255, 255, 255);
 }
 
 /* Private Calls */
@@ -2502,3 +2515,53 @@
 
 .bda-slist .bda-footer button[style*="background-color: rgb(114, 137, 218);"] {
     background-color: #582060 !important;
+}
+
+.stickyHeader-hH_ZLl{
+    background-color: transparent;
+}
+
+.titleElevated-c_kdi7{
+    background-color:transparent;
+}
+
+.container-_phMUq:{
+    background-color: rgba(0, 0, 0, 0.123) ;
+}
+sidebarRegionScroller-3MXcoP, .standardSidebarView-3F1I7i, .contentRegionScroller-26nc1e{
+    background-image: url(https://images2.alphacoders.com/702/702781.jpg);
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position:1110% 50%;
+}
+.header-2RyJ0Y, .theme-dark #bd-settings-sidebar .ui-tab-bar-header{
+    background-color: rgba(0, 0, 0, 0.345);
+        border-radius:15px;
+}
+
+.side-8zPYf6 .item-PXvHYJ{
+        background-color: rgba(0, 0, 0, 0.345);
+            border-radius:15px;
+}
+
+.theme-dark #bd-settings-sidebar .ui-tab-bar-item{
+    background-color: rgba(0, 0, 0, 0.345);
+    border-radius:15px;
+}
+
+.contentRegion-3nDuYy, .sidebarRegionScroller-3MXcoP, .standardSidebarView-3F1I7i, .contentRegionScroller-26nc1e{
+    {
+    background-color: rgba(0, 0, 0, 0.345);
+    border-radius:15px;
+}
+
+.perksModalContentWrapper-2HU6uL{
+    background-image: url(https://images3.alphacoders.com/104/1047335.jpg);
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position:1110% 50%;
+    background-color:transparent;
+}
+.theme-dark .footer-2gL1pp{
+    background-color: rgba(0, 0, 0, 0.555);
+}
